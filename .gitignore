@@ -1,0 +1,6 @@
+# Data citra mentah dan data pribadi
+data/raw/
+
+# Berkas sementara Jupyter dan Python
+.ipynb_checkpoints/
+__pycache__/
